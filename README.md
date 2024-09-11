@@ -38,6 +38,7 @@ crowdfunding_ETL
   --> A "subcategory" column that contains only the subcategory titles
 
   --> The following image shows this subcategory DataFrame:
+  
   ![image](https://github.com/user-attachments/assets/c634d782-57be-4791-b14e-c5bcd81f1d25)
 
   Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
@@ -75,6 +76,7 @@ crowdfunding_ETL
   --> The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
   --> The following image shows this campaign DataFrame:
+  
   ![image](https://github.com/user-attachments/assets/dfe621d5-2c1a-4d48-afc3-2c229a53ca13)
 
   Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
@@ -120,6 +122,7 @@ crowdfunding_ETL
   --> Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 
   Check that your final DataFrame resembles the one in the following image:
+  
   ![image](https://github.com/user-attachments/assets/2d916b2e-c8b1-4053-8f3f-3b8d80d362dc)
 
 # Create the Crowdfunding Database
