@@ -27,6 +27,7 @@ crowdfunding_ETL
   --> A "category" column that contains only the category titles
 
   --> The following image shows this category DataFrame:
+  
   ![image](https://github.com/user-attachments/assets/198791db-7106-48e3-90f6-3de2684a9ed8)
 
   Export the category DataFrame as category.csv and save it to your GitHub repository.
