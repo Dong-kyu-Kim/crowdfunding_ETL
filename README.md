@@ -39,7 +39,7 @@ crowdfunding_ETL
 
   --> The following image shows this subcategory DataFrame:
   
-![image](https://github.com/user-attachments/assets/c634d782-57be-4791-b14e-c5bcd81f1d25)
+  ![image](https://github.com/user-attachments/assets/c634d782-57be-4791-b14e-c5bcd81f1d25)
 
   Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
